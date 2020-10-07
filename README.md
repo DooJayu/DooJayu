@@ -6,10 +6,10 @@
 ### About Me
 
 I am a student learning how to code.
-My projects so far is my website and my discord bot (RIRY)
+My projects so far is my website and my discord bot <h3>(RIRY)</h3>
 
-CONTACT ME:
+### CONTACT ME:
 
 Discord - Kacper#7865
 
-<img src="" style="width: 50%; max-width: 50%;">
+
