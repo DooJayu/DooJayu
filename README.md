@@ -8,7 +8,7 @@
 I am a student learning how to code.
 My projects so far is my website and my discord bot (RIRY)
 
-### CONTACT ME:
+### Contact Me:
 
 Discord - Kacper#7865
 
