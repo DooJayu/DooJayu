@@ -12,6 +12,6 @@ My projects: Personal Website, RIRY (Discord Bot), Danbooru Image Scraper (WIP)
 
 Discord - Kacper#7865
 
-Website - https://www.jaycobisstupid.xyz/
+Website:trollface: - https://www.jaycobisstupid.xyz/
 
 
