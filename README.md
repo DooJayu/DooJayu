@@ -6,7 +6,7 @@
 ### About Me
 
 I am a student learning how to code.
-My projects so far is my website and my discord bot <h3>(RIRY)</h3>
+My projects so far is my website and my discord bot (RIRY)
 
 ### CONTACT ME:
 
