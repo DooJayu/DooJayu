@@ -11,4 +11,4 @@ My projects so far is my website and my discord bot (RIRY)
 CONTACT ME:
 Discord - Kacper#7865
 
-<img src="https://cdn.discordapp.com/attachments/752745827163832370/755256540675571843/a_1c8bc183b08f877c71478daf310c76d3.gif" style="width: 50%; max-width: 50%;>
+<img src="https://cdn.discordapp.com/attachments/752745827163832370/755256540675571843/a_1c8bc183b08f877c71478daf310c76d3.gif" style="width: 50%; max-width: 50%;">
