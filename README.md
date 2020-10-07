@@ -8,7 +8,7 @@
 I am a student learning how to code.
 My projects: Personal Website, RIRY (Discord Bot), Danbooru Image Scraper (WIP)
 
-### Contact Me :mailbox::
+### Contact Me :mailbox:
 
 Discord - Kacper#7865
 
