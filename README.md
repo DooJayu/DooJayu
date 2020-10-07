@@ -6,7 +6,7 @@
 ### About Me
 
 I am a student learning how to code.
-My projects so far is my website and my discord bot (RIRY)
+My projects: Personal Website, RIRY (Discord Bot), Danbooru Image Scraper (WIP)
 
 ### Contact Me:
 
