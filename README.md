@@ -12,4 +12,4 @@ CONTACT ME:
 
 Discord - Kacper#7865
 
-<img src="https://tenor.com/view/yakuza-kazuma-kiryu-pissed-off-gif-14586175" style="width: 50%; max-width: 50%;">
+<img src="" style="width: 50%; max-width: 50%;">
