@@ -1,5 +1,3 @@
-# Hello:wave:, My name is Kacper:ghost:
-
 [![View Counter](https://komarev.com/ghpvc/?username=DooJayu)](#)
 
 ### Github Stats 📈
